@@ -1,10 +1,10 @@
 
-```markdown
+
 # ✅ To-Do List App
 
 A simple and responsive To-Do List application built with HTML, CSS, and JavaScript. Easily manage your daily tasks with features like adding, deleting, and marking tasks as completed.
 
----
+
 
 ## 📁 Project Structure
 
